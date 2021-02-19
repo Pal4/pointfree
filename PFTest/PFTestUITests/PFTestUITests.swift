@@ -1,13 +1,13 @@
 //
-//  PointFreeUITests.swift
-//  PointFreeUITests
+//  PFTestUITests.swift
+//  PFTestUITests
 //
 //  Created by a.polunin on 18.02.2021.
 //
 
 import XCTest
 
-class PointFreeUITests: XCTestCase {
+class PFTestUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
