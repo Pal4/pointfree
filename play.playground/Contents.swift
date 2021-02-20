@@ -1,12 +1,9 @@
 import UIKit
 import FunctionalUtility
 
-func incr(_ x: Int) -> Int {
-  return x + 1
+func compute(_ x: Int) -> Int {
+    x + x + 1
 }
 
-func square(_ x: Int) -> Int {
-  return x * x
-}
+compute(2)
 
-1 * 4 |> incr >>> square
